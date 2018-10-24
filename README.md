@@ -1,0 +1,1 @@
+This is a simple AMSI bypass for Windows 10.
